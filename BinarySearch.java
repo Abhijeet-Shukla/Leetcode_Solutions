@@ -1,3 +1,4 @@
+// Difficulty=Easy
 class Solution {
     public int search(int[] nums, int target) {
         
